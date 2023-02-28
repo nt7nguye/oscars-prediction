@@ -1,0 +1,151 @@
+Year,Name,Movie,Odds,Winner
+1974,Tatum O'Neal,Paper Moon,3.5,TRUE
+1974,Linda Blair,The Exorcist,3.5,FALSE
+1974,Sylvia Sidney,"Summer Wishes, Winter Dreams",3.5,FALSE
+1974,Madeline Kahn,Paper Moon,9,FALSE
+1974,Cindy Clark,Ameican Graffiti,9,FALSE
+1975,Ingrid Bergman,Murder on the Orient Express,3.5,TRUE
+1975,Talis Shire,The Godfather Part II,4,FALSE
+1975,Valenina Cortese,Day For Night,5,FALSE
+1975,Diane Ladd,Alice Doesn't Live Here Anymore,7,FALSE
+1975,Madeline Kahn,Blazing Saddles,9,FALSE
+1976,Lee Grant,Shampoo,3,TRUE
+1976,Ronee Blakley,Nashville,5,FALSE
+1976,Lily Tomlin,Nashville,5,FALSE
+1976,Brenda Vaccaro,Once is Not Enough,5,FALSE
+1976,Sylvia Miles,"Farewell, My Lovely",5,FALSE
+1978,Vanessa Redgrave,Julia,2.6,TRUE
+1978,Tuesday Weld,Looking for Mr Goodbar,2.6,FALSE
+1978,Leslie Browne,Turning Point,5,FALSE
+1978,Quinn Cumming,Goodbye Girl,5,FALSE
+1978,Melinda Dillon,Close Encounters of the Third Kind,11,FALSE
+1981,Mary Steenburgen,Melvin and Howard,4,TRUE
+1981,Eva Le Gallienne,Resurrection,3.5,FALSE
+1981,Cathy Moriarty,Raging Bull,4,FALSE
+1981,Diana Scarwid,Inside Moves,4,FALSE
+1981,Eillen Brennan,Private Benjamin,5,FALSE
+1983,Jessica Lange,Tootsie,6,TRUE
+1983,Kim Stanley,Frances,2.2,FALSE
+1983,Teri Garr,Tootsie,5,FALSE
+1983,Glenn Close,The World According to Garp,9,FALSE
+1983,Leslie Ann Warren,Victor/Victoria,10,FALSE
+1984,Linda Hunt,Year of Living Dangerously,5.5,TRUE
+1984,Glenn Close,The Big Chill,3.5,FALSE
+1984,Amy Irving,Yentl,4,FALSE
+1984,Cher,Silkwood,7,FALSE
+1984,Alfre Woodard,Cross Creek,11,FALSE
+1985,Peggy Ashcroft,A Passage to India,2.2,TRUE
+1985,Christine Lahti,Swing Shift,2.4,FALSE
+1985,Glen Close,The Natural,2.8,FALSE
+1985,Geraldine Page,The Pope of Greenwich Village,2.8,FALSE
+1985,Lindsay Crouse,Places in the Heart,4,FALSE
+1986,Anjelica Huston,Prizzi's Honor,2.2,TRUE
+1986,Oprah Winfrey,The Color Purple,2.4,FALSE
+1986,Meg Tilley,Agnes of God,2.6,FALSE
+1986,Amy Madigan,Twice in a Lifetime,2.6,FALSE
+1986,Margaret Avery,The Color Purple,6,FALSE
+1987,Dianne Wiest,Hannah and Her Sisters,2.2,TRUE
+1987,Mary Elizabeth Mastrantonio,The Color of Money,2.2,FALSE
+1987,Piper Laurie,Children of a Lesser God,6,FALSE
+1987,Maggie Smith,A Room With a View,8,FALSE
+1987,Tess Harper,Crimes of the Heart,11,FALSE
+1991,Whoopi Goldberg,Ghost,1.833333333,TRUE
+1991,Mary McDonnell,Dances With Wolves,4,FALSE
+1991,Lorraine Bracco,Goodfellas,5,FALSE
+1991,Annette Bening,The Grifters,5,FALSE
+1991,Diane Ladd,Wild at Heart,7,FALSE
+2000,Angelina Jolie,"Girl, Interrupted",1.5,TRUE
+2000,Toni Collette,The Sixth Sense,11,FALSE
+2000,Catherine Keener,Being John Malkovich,7,FALSE
+2000,Samantha Morton,Sweet and Lowdown,13,FALSE
+2000,Chloe Sevigny,Boys Don't Cray,5,FALSE
+2003,Catherine Zeta-Jones,Chicago,5,TRUE
+2003,Kathy Bates,About Schmidt,6,FALSE
+2003,Queen Latifah,Chicago,9,FALSE
+2003,Julianne Moore,The Hours,2.6,FALSE
+2003,Meryl Streep,Adaptation,3,FALSE
+2004,Renee Zellwegger,Cold Mountain,1.333333333,TRUE
+2004,Patricia Clarkson,Pieces of April,6,FALSE
+2004,Marcia Gay Harden,Mystic River,8,FALSE
+2004,Holly Hunter,Thirteen,11,FALSE
+2004,Soreh Aghdashioo,House of Sand and Fog,26,FALSE
+2006,Rachel Weisz,The Constant Gardener,2.4,TRUE
+2006,Amy Adams,Junebug,2.8,FALSE
+2006,Catherine Keener,Capote,41,FALSE
+2006,Frances McDormand,North Country,51,FALSE
+2006,Michelle Williams,Brokeback Mountain,2.6,FALSE
+2008,Tilda Swinton,Michael Clayton,16,TRUE
+2008,Cate Blanchett,I'm Not There,2,FALSE
+2008,Amy Ryan,Gone Baby Gone,3,FALSE
+2008,Ruby Dee,American Gangster,3.5,FALSE
+2008,Saoirse Ronan,Atonement,13,FALSE
+2009,Penelope Cruz,Vicky Cristina Barcelona,1.8,TRUE
+2009,Viola Davis,Doubt,4,FALSE
+2009,Marisa Tomei,The Wrestler,6,FALSE
+2009,Taraji P Henson,The Curious Case of Benjamin Button,9,FALSE
+2009,Amy Adams,Doubt,13,FALSE
+2010,Mo'Nique,Precious,1.059988002,TRUE
+2010,Anna Kendrick,Up in the Air,9,FALSE
+2010,Penelope Cruz,Nine,13,FALSE
+2010,Maggie Gyllenhaal,Crazy Heart,21,FALSE
+2010,Vera Farmiga,Up in the Air,21,FALSE
+2011,Melissa Leo,The Fighter,1.5,TRUE
+2011,Hailee Steinfeld,True Grit,2.5,FALSE
+2011,Helena Bonham Carter,The King's Speech,7,FALSE
+2011,Amy Adams,The Fighter,16,FALSE
+2011,Jacki Weaver,Animal Kingdom,26,FALSE
+2012,Octavia Spencer,The Help,1.066666667,TRUE
+2012,Berenice Bejo,The Artist,9,FALSE
+2012,Jessica Chastain,The Help,19,FALSE
+2012,Janet McTeer,Albert Nobbs,26,FALSE
+2012,Melissa McCarthy,Bridesmaids,34,FALSE
+2013,Anne Hathaway,Les Miserables,1.01,TRUE
+2013,Sally Field,Lincoln,15,FALSE
+2013,Helen Hunt,The Sessions,17,FALSE
+2013,Amy Adams,The Master,19,FALSE
+2013,Jacki Weaver,Silver Linings Playbook,67,FALSE
+2014,Lupita Nyongo,12 Years a Slave,1.598802395,TRUE
+2014,Jennifer Lawrence,American Hustle,2.1,FALSE
+2014,June Squibb,Nebraska,41,FALSE
+2014,Sally Hawkins,Blue Jasmine,41,FALSE
+2014,Julia Roberts,August: Osage County,67,FALSE
+2015,Patricia Arquette,Boyhood,1.022222222,TRUE
+2015,Emma Stone,Birdman,13,FALSE
+2015,Keira Knightley,The Imitation Game,26,FALSE
+2015,Laura Dern,Wild,26,FALSE
+2015,Meryl Streep,Into the Woods,26,FALSE
+2016,Alicia Vikander,The Danish Girl,1.273972603,TRUE
+2016,Kate Winslet,Steve Jobs,4.5,FALSE
+2016,Rooney Mara,Carol,20,FALSE
+2016,Jennifer Jason Leigh,The Hateful Eight,46,FALSE
+2016,Rachel McAdams,Spotlight,176,FALSE
+2017,Viola Davis,Fences,1.025,TRUE
+2017,Naomi Harris,Moonlight,41,FALSE
+2017,Michelle Williams,Manchester By The Sea,56,FALSE
+2017,Octavia Spencer,Hidden Figures,126,FALSE
+2017,Nicole Kidman,Lion,151,FALSE
+2018,Allison Janney,"I, Tonya",1.175438596,TRUE
+2018,Laurie Metcalf,Lady Bird,6.35,FALSE
+2018,Mary J Blige,Mudbound,59.5,FALSE
+2018,Lesley Manville,Phantom Thread,59.5,FALSE
+2018,Octavia Spencer,The Shape of Water,71,FALSE
+2019,Regina King,If Beale Street Could Talk,1.363636364,TRUE
+2019,Amy Adams,Vice,6.5,FALSE
+2019,Rachel Weisz,The Favourite,7,FALSE
+2019,Marina de Tavira,Roma,29.5,FALSE
+2019,Emma Stone,The Favourite,41,FALSE
+2020,Laura Dern,Marriage Story,1.060606061,TRUE
+2020,Scarlett Johansson,Jojo Rabbit,19.75,FALSE
+2020,Margot Robbie,Bombshell,24.5,FALSE
+2020,Florence Pugh,Little Women,31.5,FALSE
+2020,Kathy Bates,Richard Jewell,96,FALSE
+2021,Youn Yuh-Jung,Minari,1.153846154,TRUE
+2021,Maria Bakalova,Borat Subsequent Moviefilm,6,FALSE
+2021,Glenn Close,Hillbilly Elegy,11,FALSE
+2021,Olivia Colman,The Father,26,FALSE
+2021,Amanda Seyfried,Mank,34,FALSE
+2022,Ariana DeBose,West Side Story,1.05,TRUE
+2022,Kirsten Dunst,The Power of the Dog,8,FALSE
+2022,Aunjanue Ellis,King Richard,21,FALSE
+2022,Jessie Buckley,The Lost Daughter,34,FALSE
+2022,Judi Dench,Belfast,26,FALSE

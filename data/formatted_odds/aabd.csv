@@ -1,0 +1,126 @@
+Year,Director,Movie,Odds,Winner
+1974,George Roy Hill,The Sting,4,TRUE
+1974,William Friedkin,The Exorcist,4,FALSE
+1974,Ingmar Bergman,Cries and Whispers,4,FALSE
+1974,George Lucas,Ameican Graffiti,7,FALSE
+1974,Bernardo Bertolucci,Last Tango in Paris,7,FALSE
+1976,Milos Forman,One Flew Over the Cuckoo's Nest,2.5,TRUE
+1976,Robert Altman,Nashville,4,FALSE
+1976,Sidney Lumet,Dog Day Afternoon,4,FALSE
+1976,Stanley Kubrick,Barry Lyndon,11,FALSE
+1976,Federico Fellini,Amarcord,21,FALSE
+1978,Woody Allen,Annie Hall,3.5,TRUE
+1978,Fred Zinnerman,Julia,3.5,FALSE
+1978,Herbert Ross,Turning Point,3.5,FALSE
+1978,George Lucas,Star Wars,5,FALSE
+1978,Steven Speilberg,Close Encounters of the Third Kind,21,FALSE
+1981,Robert Redford,Ordinay People,3,TRUE
+1981,Martin Scorsese,Raging Bull,2.8,FALSE
+1981,David Lynch,The Elephant Man,6,FALSE
+1981,Roman Polanski,Tess,6,FALSE
+1981,Richard Rush,The Stunt Man,6,FALSE
+1984,Bruce Beresford,Tender Mercies,4,FALSE
+1984,James L. Brooks,Terms of Endearment,4.5,FALSE
+1984,Peter Yates,The Dresser,5.5,FALSE
+1984,Mike Nichols,Silkwood,7,FALSE
+1984,Ingmar Bergman,Fanny and Alexander,8,FALSE
+1985,Milos Forman,Amadeus,2.6,TRUE
+1985,David Lean,A Passage to India,2.2,FALSE
+1985,Roland Joffe,The Killing Fields,2.6,FALSE
+1985,Woody Allen,Broadway Danny Rose,3,FALSE
+1985,Robert Benton,Places in the Heart,5,FALSE
+1986,Sydney Pollack,Out of Africa,2.4,TRUE
+1986,John Huston,Prizzi's Honor,2.2,FALSE
+1986,Akiro Kurosawa,Ran,2.6,FALSE
+1986,Hoctor Babenco,Kiss of the Spider Woman,2.6,FALSE
+1986,Peter Weir,Witness,6,FALSE
+1987,Oliver Stone,Platoon,2,TRUE
+1987,Roland Joffe,The Mission,4,FALSE
+1987,James Ivory,A Room With a View,6,FALSE
+1987,David Lynch,Blue Velvet,6,FALSE
+1987,Woody Allen,Hannah and Her Sisters,9,FALSE
+2000,Sam Mendes,American Beauty,1.2,TRUE
+2000,Spike Jonze,Being John Malkovich,16,FALSE
+2000,Lasse Hallstrom,The Cider House Rules,8,FALSE
+2000,Michael Mann,The Insider,8,FALSE
+2000,M Night Shyamalan,The Sixth Sense,10,FALSE
+2004,Peter Jackson,The Lord of the Rings: The Return of the King,1.5,TRUE
+2004,Sofia Coppola,Lost in Translation,5,FALSE
+2004,Clint Eastwood,Mystic River,11,FALSE
+2004,Peter Weir,Master and Commander,31,FALSE
+2004,Fernando Meirelles,City of God,51,FALSE
+2006,Ang Lee,Brokeback Mountain,1.25,TRUE
+2006,Bennett Miller,Capote,41,FALSE
+2006,Paul Haggis,Crash,5.5,FALSE
+2006,George Clooney,"Good Night, and Good Luck.",6,FALSE
+2006,Steven Spielberg,Munich,51,FALSE
+2009,Danny Boyle,Slumdog Millionaire,1.5,TRUE
+2009,David Fincher,The Curious Case of Benjamin Button,5,FALSE
+2009,Gus Van Sant,Milk,9,FALSE
+2009,Ron Howard,Frost/Nixon,11,FALSE
+2009,Stephen Daldry,The Reader,16,FALSE
+2010,Kathryn Bigelow,The Hurt Locker,1.210526316,TRUE
+2010,James Cameron,Avatar,4,FALSE
+2010,Quentin Tarantino,Inglorious Basterds,19,FALSE
+2010,Jason Reitman,Up in the Air,51,FALSE
+2010,Lee Daniels,Precious,61,FALSE
+2011,Tom Hooper,The King's Speech,2,TRUE
+2011,David Fincher,The Social Network,1.5,FALSE
+2011,Darren Aronofsky,Black Swan,16,FALSE
+2011,Joel Coen and Ethan Coen,True Grit,21,FALSE
+2011,David O Russell,The Fighter,31,FALSE
+2012,Michel Hazanavicius,The Artist,1.142857143,TRUE
+2012,Martin Scorsese,Hugo,6,FALSE
+2012,Alexander Payne,The Descendants,21,FALSE
+2012,Terrence Malick,The Tree of Life,41,FALSE
+2012,Woody Allen,Midnight in Paris,41,FALSE
+2013,Ang Lee,Life of Pi,3.5,TRUE
+2013,Steven Spielberg,Lincoln,1.3003003,FALSE
+2013,Michael Haneke,Amour,13,FALSE
+2013,David O Russell,Silver Linings Playbook,21,FALSE
+2013,Benh Zeitlin,Beasts of the Southern Wild,41,FALSE
+2014,Alfonso Cuaran,Gravity,1.030003,TRUE
+2014,Steve McQueen,12 Years a Slave,8,FALSE
+2014,David O Russell,American Hustle,41,FALSE
+2014,Martin Scorcese,The Wolf of Wall Street,46,FALSE
+2014,Alexander Payne,Nebraska,101,FALSE
+2015,Alejandro Gonzalez Inarritu,Birdman or (The Unexpected Virtue of Ignorance),1.5,TRUE
+2015,Richard Linklater,Boyhood,2.2,FALSE
+2015,Wes Anderson,The Grand Budapest Hotel,46,FALSE
+2015,Bennett Miller,Foxcatcher,51,FALSE
+2015,Morten Tyldum,The Imitation Game,51,FALSE
+2016,Alejandro Gonzalez Inarritu,The Revenant,1.151515152,TRUE
+2016,George Miller,Mad Max: Fury Road,8,FALSE
+2016,Thomas McCarthy,Spotlight,26,FALSE
+2016,Adam McKay,The Big Short,31,FALSE
+2016,Lenny Abrahamson,Room,126,FALSE
+2017,Damien Chazelle,La La Land,1.1,TRUE
+2017,Barry Jenkins,Moonlight,9.75,FALSE
+2017,Kenneth Lonergan,Manchester by the Sea,41,FALSE
+2017,Mel Gibson,Hacksaw Ridge,71,FALSE
+2017,Denis Villeneuve,Arrival,136,FALSE
+2018,Guillermo Del Toro,The Shape of Water,1.112359551,TRUE
+2018,Greta Gerwig,Lady Bird,14.25,FALSE
+2018,Christopher Nolan,Dunkirk,16.25,FALSE
+2018,Jordan Peele,Get Out,44,FALSE
+2018,Paul Thomas Anderson,Phantom Thread,206,FALSE
+2019,Alfonso Cuaron,Roma,1.454545455,TRUE
+2019,Yorgos Lanthimos,The Favourite,3.1,FALSE
+2019,Spike Lee,BlacKkKlansman,24,FALSE
+2019,Pawel Pawlikowski,Cold War,401,FALSE
+2019,Adam McKay,Vice,401,FALSE
+2020,Bong Joon Ho,Parasite,4.1,TRUE
+2020,Sam Mendez,1917,1.298507463,FALSE
+2020,Quentin Tarantino,Once Upon a Time... in Hollywood,14.25,FALSE
+2020,Martin Scorsese,The Irishman,81,FALSE
+2020,Todd Phillps,Joker,96,FALSE
+2021,Chloe Zhao,Nomadland,1.05,TRUE
+2021,David Fincher,Mank,10,FALSE
+2021,Lee Isaac Chung,Minari,26,FALSE
+2021,Emerald Fennell,Promising Young Woman,26,FALSE
+2021,Thomas Vinterberg,Another Round,26,FALSE
+2022,Jane Campion,The Power of the Dog,1.02,TRUE
+2022,Kenneth Branagh,Belfast,17,FALSE
+2022,Steven Spielberg,West Side Story,15,FALSE
+2022,Ryusuke Hamaguchi,Drive My Car,26,FALSE
+2022,Paul Thomas Anderson,Licorice Pizza,34,FALSE

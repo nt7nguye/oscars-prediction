@@ -25,3 +25,11 @@ class EntityType(str, Enum):
     NAME = "name"
     EVENT = "event"
     COMPANY = "company"
+
+
+HREF_TO_ENTITY = {
+    "title": EntityType.TITLE,
+    "name": EntityType.NAME,
+    "event": EntityType.EVENT,
+    "company": EntityType.COMPANY,
+}

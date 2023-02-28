@@ -1,15 +1,16 @@
 from .const import BASE_IMDB_URL, HEADERS, EntityType
 import requests
 from bs4 import BeautifulSoup
+import unidecode
 
 
 def get_awards(
     entity_type,
     entity_id,
-    awards_cached=None,
+    awards_cache=None,
 ):
-    if awards_cached is not None and (entity_type, entity_id) in awards_cached:
-        return awards_cached[(entity_type, entity_id)]
+    if awards_cache is not None and (entity_type, entity_id) in awards_cache:
+        return awards_cache[(entity_type, entity_id)]
     if entity_type == EntityType.EVENT:
         raise Exception(f"Entity type not supported {entity_type}")
     page = requests.get(
@@ -17,8 +18,8 @@ def get_awards(
     )
     soup = BeautifulSoup(page.text, "html.parser")
     awards = parse_awards(soup)
-    if awards_cached is not None:
-        awards_cached[(entity_type, entity_id)] = awards
+    if awards_cache is not None:
+        awards_cache[(entity_type, entity_id)] = awards
     return awards
 
 

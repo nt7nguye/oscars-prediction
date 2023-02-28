@@ -1,13 +1,23 @@
 from .const import BASE_IMDB_URL, HEADERS, EntityType
 import requests
 from bs4 import BeautifulSoup
-from .norm import parse_entity_id, normalize_oscar_category
+from .norm import parse_entity_id
 from json import JSONDecoder
 
 
-def get_event(event_id, year, event_cached=None):
-    if event_cached is not None and (event_id, year) in event_cached:
-        return event_cached[event_id, year]
+def get_event(event_id, year, event_cache=None):
+    """
+
+    Args:
+        event_id (_type_): _description_
+        year (_type_): _description_
+        event_cache (_type_, optional): _description_. Defaults to None.
+
+    Returns:
+        _type_: _description_
+    """
+    if event_cache is not None and (event_id, year) in event_cache:
+        return event_cache[event_id, year]
 
     page = requests.get(f"{BASE_IMDB_URL}/event/{event_id}/{year}", headers=HEADERS)
     soup = BeautifulSoup(page.text, "html.parser")
@@ -40,7 +50,7 @@ def get_event(event_id, year, event_cached=None):
         for category in award["categories"]:
             formatted_category = {
                 "award": award_name,
-                "category": normalize_oscar_category(category["categoryName"]),
+                "category": category["categoryName"],
                 "noms": [],
             }
 
@@ -51,11 +61,17 @@ def get_event(event_id, year, event_cached=None):
                     {
                         "name": nom["primaryNominees"][0]["name"],
                         "is_winner": nom["isWinner"],
+                        "secondary_names": [
+                            secondary["name"] for secondary in nom["secondaryNominees"]
+                        ],
+                        "secondary_ids": [
+                            secondary["const"] for secondary in nom["secondaryNominees"]
+                        ],
                         **parse_entity_id(nom["primaryNominees"][0]["const"]),
                     }
                 )
 
             event.append(formatted_category)
-    if event_cached is not None:
-        event_cached[(event_id, year)] = event
+    if event_cache is not None:
+        event_cache[(event_id, year)] = event
     return event

@@ -1,0 +1,151 @@
+Year,Name,Movie,Odds,Winner
+1974,John Houseman,The Paper Chase,2.6,TRUE
+1974,Jason Miller,The Exorcist,3.5,FALSE
+1974,Jack Gilford,Save the Tiger,5,FALSE
+1974,Randy Quaid,The Last Detail,5,FALSE
+1974,Vincent Gardenia,Bang the Drum Slowly,16,FALSE
+1975,Robert De Niro,The Godfather Part II,4,TRUE
+1975,Fred Astaire,The Towering Inferno,2.2,FALSE
+1975,Jeff Bridges,Thunderbolt and Lightfoot,5,FALSE
+1975,Michael V Gazzo,The Godfather Part II,13,FALSE
+1975,Lee Strasberg,The Godfather Part II,16,FALSE
+1976,George Burns,The Sunshine Boys,1.2,TRUE
+1976,Brad Dourif,One Flew Over the Cuckoo's Nest,4,FALSE
+1976,Burgess Meredith,Day of the Locust,7,FALSE
+1976,Jack Warden,Shampoo,9,FALSE
+1976,Chris Sarandon,Dog Day Afternoon,11,FALSE
+1978,Jason Robards,Julia,2.4,TRUE
+1978,Peter Firth,Equus,2.6,FALSE
+1978,Maxmimilian Schell,Julia,4,FALSE
+1978,Alec Guinness,Star Wars,4,FALSE
+1978,Mikhail Baryshnikov,Turning Point,21,FALSE
+1981,Timothy Hutton,Ordinay People,3,TRUE
+1981,Joe Pesci,Raging Bull,2.8,FALSE
+1981,Judd Hirsch,Ordinay People,3,FALSE
+1981,Michael O'Keefe,The Great Santini,11,FALSE
+1981,Jason Robards,Melvin and Howard,11,FALSE
+1983,Louis Gosset Jr,An Officer and a Gentleman,4,TRUE
+1983,James Mason,The Verdict,2.5,FALSE
+1983,Charles Durning,The Best Little Whorehouse in Texas,9,FALSE
+1983,Robert Preston,Victor/Victoria,9,FALSE
+1983,John Lithgow,The World According to Garp,9,FALSE
+1984,Jack Nicholson,Terms of Endearment,7,TRUE
+1984,Sam Shepard,The Right Stuff,4,FALSE
+1984,Rip Torn,Cross Creek,9,FALSE
+1984,Charles Durning,To Be or Not to Be,16,FALSE
+1984,John Lithgow,Terms of Endearment,16,FALSE
+1985,Haing S. Ngor,The Killing Fields,2.2,TRUE
+1985,Adolph Caesar,A Soldier's Story,2.2,FALSE
+1985,"Noriyuki ""Pat"" Morita",The Karate Kid,2.2,FALSE
+1985,John Malkovich,Places in the Heart,2.6,FALSE
+1985,Ralph Richardson,Greystoke: The Legend of Tarzan,2.6,FALSE
+1986,Don Ameche,Cocoon,2.2,TRUE
+1986,William Hickey,Prizzi's Honor,2.2,FALSE
+1986,Klaus Maria Brandauer,Out of Africa,2.4,FALSE
+1986,Robert Loggia,The Jagged Edge,2.6,FALSE
+1986,Eric Roberts,Runaway Train,2.6,FALSE
+1987,Michael Caine,Hannah and Her Sisters,2.2,TRUE
+1987,Willem Defoe,Platoon,2,FALSE
+1987,Tom Berenger,Platoon,2.2,FALSE
+1987,Denholm Elliott,A Room With a View,6,FALSE
+1987,Dennis Hopper,Hoosiers,6,FALSE
+1991,Joe Pesci,Goodfellas,3,TRUE
+1991,Bruce Davison,Longtime Companion,1.4,FALSE
+1991,Al Pacino,Dick Tracy,4,FALSE
+1991,Graham Greene,Dances With Wolves,4.5,FALSE
+1991,Andy Garcia,"The Godfather, Part III",6,FALSE
+2000,Michael Caine,The Cider House Rules,2.4,TRUE
+2000,Tom Cruise,Magnolia,1.5,FALSE
+2000,Michael Clarke Duncan,The Green Mile,6,FALSE
+2000,Jude Law,The Talented Mr Ripley,9,FALSE
+2000,Haley Joel Osment,The Sixth Sense,7,FALSE
+2003,Chris Cooper,Adaptation,1.25,TRUE
+2003,Ed Harris,The Hours,9,FALSE
+2003,Paul Newman,Road to Perdition,6,FALSE
+2003,John C Reilly,Chicago,21,FALSE
+2003,Christopher Walken,Catch Me If You Can,21,FALSE
+2004,Tim Robbins,Mystic River,1.5,TRUE
+2004,Bernicio del Toro,21 Grams,6,FALSE
+2004,Alec Baldwin,The Cooler,7,FALSE
+2004,Djimon Honsou,In America,11,FALSE
+2004,Ken Watanabe,The Last Samurai,16,FALSE
+2006,George Clooney,Syriana,3,TRUE
+2006,Matt Dillon,Crash,4,FALSE
+2006,Paul Giamatti,Cinderella Man,2,FALSE
+2006,Jake Gyllenhaal,Brokeback Mountain,11,FALSE
+2006,William Hurt,A History of Violence,51,FALSE
+2008,Javier Bardem,No Country For Old Men,1.125,TRUE
+2008,Casey Affleck,The Assassination of Jesse James,9,FALSE
+2008,Hal Holbrook,Into the Wild,13,FALSE
+2008,Tom Wilkinson,Michael Clayton,16,FALSE
+2008,Philip Seymour Hoffman,Charlie Wilson's War,19,FALSE
+2009,Heath Ledger,The Dark Knight,1.1,TRUE
+2009,Philip Seymour Hoffman,Doubt,13,FALSE
+2009,Josh Brolin,Milk,13,FALSE
+2009,Michael Shannon,Revolutionary Road,13,FALSE
+2009,Robert Downey Jr,Tropic Thunder,26,FALSE
+2010,Christopher Waltz,Inglorious Basterds,1.030003,TRUE
+2010,Stanley Tucci,The Lovely Bones,11,FALSE
+2010,Wood Harrelson,The Messenger,11,FALSE
+2010,Christopher Plummer,The Last Station,26,FALSE
+2010,Matt Damon,Invictus,34,FALSE
+2011,Christian Bale,The Fighter,1.142857143,TRUE
+2011,Geoffrey Rush,The King's Speech,3,FALSE
+2011,Jeremy Renner,The Town,21,FALSE
+2011,John Hawkes,Winter's Bone,31,FALSE
+2011,Mark Ruffalo,The Kids Are All Right,31,FALSE
+2012,Christopher Plummer,Beginners,1.01,TRUE
+2012,Kenneth Branagh,My Week With Marilyn,9,FALSE
+2012,Max Von Sydow,Extremely Loud & Incredibly Close,19,FALSE
+2012,Nick Nolte,Warrior,21,FALSE
+2012,Jonah Hill,Moneyball,34,FALSE
+2013,Christoph Waltz,Django Unchained,2.25,TRUE
+2013,Tommy Lee Jones,Lincoln,2.25,FALSE
+2013,Robert De Niro,Silver Linings Playbook,5,FALSE
+2013,Philip Seymour Hoffman,The Master,11,FALSE
+2013,Alan Arkin,Argo,41,FALSE
+2014,Jared Leto,Dallas Buyers Club,1.05,TRUE
+2014,Michael Fassbender,12 Years a Slave,10,FALSE
+2014,Barkhad Abdi,Captain Phillips,13,FALSE
+2014,Jonah Hill,The Wolf of Wall Street,41,FALSE
+2014,Bradley Cooper,American Hustle,67,FALSE
+2015,JK Simmons,Whiplash,1.022222222,TRUE
+2015,Edward Norton,Birdman or (The Unexpected Virtue of Ignorance),13,FALSE
+2015,Mark Ruffalo,Foxcatcher,17,FALSE
+2015,Robert Duvall,The Judge,31,FALSE
+2015,Ethan Hawke,Boyhood,33,FALSE
+2016,Mark Rylance,Bridge of Spies,5.5,TRUE
+2016,Sylvester Stallone,Creed,1.256410256,FALSE
+2016,Tom Hardy,The Revenant,25,FALSE
+2016,Mark Ruffalo,Spotlight,34,FALSE
+2016,Christian Bale,The Big Short,36,FALSE
+2017,Mahershala Ali,Moonlight,1.181818182,TRUE
+2017,Dev Patel,Lion,6.4,FALSE
+2017,Jeff Bridges,Hell or High Water,36,FALSE
+2017,Michael Shannon,Nocturnal Animal,41,FALSE
+2017,Lucas Hedges,Manchester by the Sea,67,FALSE
+2018,Sam Rockwell,"Three Billboards Outside Ebbing, Missouri",1.136986301,TRUE
+2018,Willem Dafoe,The Florida Project,7.9,FALSE
+2018,Christopher Plummer,All the Money in the World,44,FALSE
+2018,Richard Jenkins,The Shape of Water,55,FALSE
+2018,Woody Harrelson,"Three Billboards Outside Ebbing, Missouri",55,FALSE
+2019,Mahershala Ali,Green Book,1.101010101,TRUE
+2019,Richard E Grant,Can You Ever Forgive Me?,8.5,FALSE
+2019,Sam Elliott,A Star Is Born,31,FALSE
+2019,Sam Rockwell,Vice,101,FALSE
+2019,Adam Driver,BlacKkKlansman,126,FALSE
+2020,Brad Pitt,Once Upon a Time in...Hollywood,1.023529412,TRUE
+2020,Joe Pesci,The Irishman,19.75,FALSE
+2020,Al Pacino,The Irishman,43.5,FALSE
+2020,Tom Hanks,A Beautiful Day in the Neighborhood,76,FALSE
+2020,Anthony Hopkins,The Two Popes,76,FALSE
+2021,Daniel Kaluuya,Judas and the Black Messiah,1.033333333,TRUE
+2021,Sacha Baron Cohen,The Trial of the Chicago 7,15,FALSE
+2021,Leslie Odom Jr,One Night in Miami,21,FALSE
+2021,Paul Paci,Sound of Metal,26,FALSE
+2021,Lakeith Stanfield,Judas and the Black Messiah,34,FALSE
+2022,Troy Kotsur,CODA,1.133333333,TRUE
+2022,Kodi Smit-McPhee,The Power of the Dog,4.5,FALSE
+2022,Ciaran Hinds,Belfast,26,FALSE
+2022,Jesse Plemons,The Power of the Dog,34,FALSE
+2022,JK Simmons,Being the Ricardos,51,FALSE

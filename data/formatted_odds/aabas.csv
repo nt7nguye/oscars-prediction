@@ -1,0 +1,206 @@
+Year,Name,Movie,Odds,Winner
+1974,Glenda Jackson,A Touch of Class,9,TRUE
+1974,Ellen Burstyn,The Exorcist,3.5,FALSE
+1974,Joanne Woodward,"Summer Wishes, Winter Dreams",3.5,FALSE
+1974,Marsha Mason,Cinderella Liberty,3.5,FALSE
+1974,Barbra Steisand,The Way We Were,6,FALSE
+1975,Ellen Burstyn,Alice Doesn't Live Here Anymore,8,TRUE
+1975,Faye Dunaway,Chinatown,3,FALSE
+1975,Gena Rowlands,A Woman Under the Influence,3.5,FALSE
+1975,Valerie Perrine,Lenny,4,FALSE
+1975,Diahann Carrol,Claudine,13,FALSE
+1976,Louise Fletcher,One Flew Over the Cuckoo's Nest,3,TRUE
+1976,Glenda Jackson,Hedda,4,FALSE
+1976,Ann-Margaret,Tommy,5,FALSE
+1976,Isabelle Adjani,The Story of Adele H,5,FALSE
+1976,Carol Kane,Hester Street,11,FALSE
+1978,Diane Keaton,Annie Hall,3,TRUE
+1978,Shirley McLaine,Turning Point,3.4,FALSE
+1978,Jane Fonda,Julia,3.4,FALSE
+1978,Anne Bancroft,Turning Point,4,FALSE
+1978,Marsha Mason,Goodbye Girl,9,FALSE
+1981,Sissy Spacek,Coal Miner's Daughter,2.4,TRUE
+1981,Ellen Burstyn,Resurrection,3,FALSE
+1981,Mary Tyler Moore,Ordinay People,3,FALSE
+1981,Goldie Hawn,Private Benjamin,11,FALSE
+1981,Gena Rowlands,Gloria,11,FALSE
+1983,Meryl Streep,Sophie's Choice,2.2,TRUE
+1983,Jessica Lange,Frances,4,FALSE
+1983,Sissy Spacek,Missing,9,FALSE
+1983,Julie Andrews,Victor/Victoria,9,FALSE
+1983,Debra Winger,An Officer and a Gentleman,10,FALSE
+1984,Shirley McLaine,Terms of Endearment,4,TRUE
+1984,Jane Alexander,Testament,5,FALSE
+1984,Meryl Streep,Silkwood,4.5,FALSE
+1984,Julie Walters,Educating Rita,4.5,FALSE
+1984,Debra Winger,Terms of Endearment,13,FALSE
+1985,Sally Field,Places in the Heart,2.6,TRUE
+1985,Judy Davis,A Passage to India,2.2,FALSE
+1985,Sissy Spacek,The River,2.4,FALSE
+1985,Jessica Lange,Country,2.6,FALSE
+1985,Vanessa Redgrave,The Bostonians,6,FALSE
+1986,Geraldine Page,The Trip to Bountiful,2.2,TRUE
+1986,Meryl Streep,Out of Africa,2.4,FALSE
+1986,Whoopi Goldberg,The Color Purple,2.4,FALSE
+1986,Jessica Lange,Sweet Dreams,2.6,FALSE
+1986,Anne Bancroft,Agnes of God,6,FALSE
+1987,Marlee Matlin,Children of a Lesser God,2.2,TRUE
+1987,Kathleen Turner,Peggy Sue Got Married,2.4,FALSE
+1987,Jane Fonda,The Morning After,5,FALSE
+1987,Sissy Spacek,Crimes of the Heart,5,FALSE
+1987,Sigourney Weaver,Aliens,11,FALSE
+1988,Cher,Moonstruck,2.5,TRUE
+1988,Holly Hunter,Broadcast News,3,FALSE
+1988,Sally Kirkland,Anna,4,FALSE
+1988,Glenn Close,Fatal Attraction,9,FALSE
+1988,Meryl Streep,Ironweed,11,FALSE
+1989,Jodie Foster,The Accused,3.5,TRUE
+1989,Sigourney Weaver,Gorillas in the Mist,4,FALSE
+1989,Glenn Close,Dangerouse Liaisons,4,FALSE
+1989,Meryl Streep,A Cry in the Dark,4.5,FALSE
+1989,Melanie Griffith,Working Girl,6,FALSE
+1990,Jessica Tandy,Driving Miss Daisy,1.598802395,TRUE
+1990,Michelle Pfeiffer,The Fabulous Baker Boys,5,FALSE
+1990,Pauline Collins,Shirley Valentine,6,FALSE
+1990,Jessica Lange,Music Box,6,FALSE
+1990,Isabelle Adjani,Camille Cladel,13,FALSE
+1991,Kathy Bates,Misery,6,TRUE
+1991,Joanne Woodward,Mr and Mrs Bridge,2.4,FALSE
+1991,Angelica Huston,The Grifters,2.8,FALSE
+1991,Julia Roberts,Pretty Woman,6,FALSE
+1991,Meryl Streep,Postcards From the Edge,7,FALSE
+1992,Jodie Foster,The Silence of the Lambs,1.598802395,TRUE
+1992,Bette Midler,For the Boys,3.5,FALSE
+1992,Laura Dern,Rambling Rose,7,FALSE
+1992,Susan Sarandon,Thelma & Louise,7,FALSE
+1992,Geena Davis,Thelma & Louise,21,FALSE
+1993,Emma Thompson,Howards End,1.4,TRUE
+1993,Susan Sarandon,Lorenzo's Oil,3.5,FALSE
+1993,Catherine Deneuve,Indochine,9,FALSE
+1993,Mary McDonnell,Passion Fish,16,FALSE
+1993,Michelle Pfeiffer,Love Field,16,FALSE
+1994,Holly Hunter,The Piano,1.2,TRUE
+1994,Angela Bassett,What's Love Got to Do with It,11,FALSE
+1994,Stockard Channing,Six Degrees of Separation,11,FALSE
+1994,Emma Thompson,The Remains of the Day,7,FALSE
+1994,Debra Winger,Shadowlands,9,FALSE
+1995,Jessica Lange,Blue Sky,2.2,TRUE
+1995,Jodie Foster,Nell,5,FALSE
+1995,Winona Ryder,Little Women,5,FALSE
+1995,Susan Sarandon,The Client,5.5,FALSE
+1995,Miranda Richardson,Tom and Viv,7,FALSE
+1996,Susan Sarandon,Dead Man Walking,9,TRUE
+1996,Emma Thompson,Sense and Sensibility,2.2,FALSE
+1996,Sharon Stone,Casino,3,FALSE
+1996,Elisabeth Shue,Leaving Las Vegas,5,FALSE
+1996,Meryl Streep,The Bridges of Madison County,19,FALSE
+1997,Frances McDormand,Fargo,2.5,TRUE
+1997,Brenda Blethyn,Secrets and Lies,2.8,FALSE
+1997,Diane Keaton,Marvin's Room,5.5,FALSE
+1997,Kristen Scott Thomas,The English Patient,6,FALSE
+1997,Emily Watson,Breaking the Waves,11,FALSE
+1998,Helen Hunt,As Good as it Gets,2,TRUE
+1998,Helena Bonham Carter,The Wings of the Dove,3,FALSE
+1998,Julie Christie,Afterglow,13,FALSE
+1998,Judi Dench,"Her Majesty, Mrs Brown",4.5,FALSE
+1998,Kate Winslet,Titanic,13,FALSE
+1999,Gwyneth Paltrow,Shakespeare in Love,1.333333333,TRUE
+1999,Cate Blanchett,Elizabeth,3,FALSE
+1999,Fernanda Montenegro,Central Station,26,FALSE
+1999,Meryl Streep,One True Thing,21,FALSE
+1999,Emily Watson,Hilary and Jackie,23,FALSE
+2000,Hilary Swank,Boys Don't Cray,1.833333333,TRUE
+2000,Annette Bening,American Beauty,3.5,FALSE
+2000,Janet McTeer,Tumbleweeds,5.5,FALSE
+2000,Julianne Moore,Then of the Affair,9,FALSE
+2000,Meryl Streep,Music of the Heart,11,FALSE
+2001,Julia Roberts,Erin Brockovich,1.004,TRUE
+2001,Laura Linney,You Can Count On Me,21,TRUE
+2001,Joan Allen,The Contender,11,FALSE
+2001,Juliette Binoche,Chocolat,21,FALSE
+2001,Ellen Burstyn,Requiem for a Dream,16,FALSE
+2003,Nicole Kidman,The Hours,2.2,TRUE
+2003,Salma Hayek,Frida,16,FALSE
+2003,Diane Lane,Unfaithful,9,FALSE
+2003,Julianne Moore,Far from Heaven,3,FALSE
+2003,Renee Zellweger,Chicago,5,FALSE
+2004,Charlize Theron,Monster,1.5,TRUE
+2004,Diane Keaton,Something's Gotta Give,2.2,FALSE
+2004,Naomi Watts,21 Grams,21,FALSE
+2004,Samantha Morton,In America,41,FALSE
+2004,Keisha Castie-Hughes,Whale Rider,51,FALSE
+2006,Reese Witherspoon,Walk the Line,1.598802395,TRUE
+2006,Judi Dench,Mrs Henderson Presents,21,FALSE
+2006,Felicity Huffman,Transamerica,4,FALSE
+2006,Keira Knightley,Pride & Predjudice,4.5,FALSE
+2006,Charlize Theron,North Country,26,FALSE
+2009,Kate Winslet,The Reader,2.2,TRUE
+2009,Anne Hathaway,Rachel Getting Married,2.6,FALSE
+2009,Meryl Streep,Doubt,6,FALSE
+2009,Melissa Leo,Frozen River,13,FALSE
+2009,Angelina Jolie,Changeling,16,FALSE
+2010,Sandra Bullock,The Blind Side,1.384615385,TRUE
+2010,Meryl Streep,Julie & Julia,3.1,FALSE
+2010,Gabourey Sidibe,Precious,9.5,FALSE
+2010,Carey Mulligan,An Education,11,FALSE
+2010,Helen Mirren,The Last Station,41,FALSE
+2011,Natalie Portman,Black Swan,1.066666667,TRUE
+2011,Annette Bening,The Kids Are All Right,7,FALSE
+2011,Nicole Kidman,Rabbit Hole,16,FALSE
+2011,Jennifer Lawrence,Winter's Bone,26,FALSE
+2011,Michelle Williams,Blue Valentine,31,FALSE
+2012,Meryl Streep,The Iron Lady,2.25,TRUE
+2012,Viola Davis,The Help,1.625,FALSE
+2012,Michelle Williams,My Week with Marilyn,16,FALSE
+2012,Rooney Mara,The Girl with the Dragon Tattoo,41,FALSE
+2012,Glenn Close,Albert Nobbs,51,FALSE
+2013,Jennifer Lawrence,Silver Linings Playbook,1.5,TRUE
+2013,Emmanuelle Riva,Amour,3,FALSE
+2013,Jessica Chastain,Zero Dark Thirty,7,FALSE
+2013,Naomi Watts,The Impossible,34,FALSE
+2013,Quvenzhan? Wallis,Beasts of the Southern Wild,41,FALSE
+2014,Cate Blanchett,Blue Jasmine,1.01,TRUE
+2014,Amy Adams,American Hustle,15,FALSE
+2014,Sandra Bullock,Gravity,19,FALSE
+2014,Judi Dench,Philomena,34,FALSE
+2014,Meryl Streep,August: Osage County,51,FALSE
+2015,Julianne Moore,Still Alice,1.025,TRUE
+2015,Reese Witherspoon,Wild,13,FALSE
+2015,Rosamund Pike,Gone Girl,26,FALSE
+2015,Felicity Jones,The Theory of Everything,41,FALSE
+2015,Marion Cotillard,Two Days one Night,51,FALSE
+2016,Brie Larson,Room,1.026315789,TRUE
+2016,Saoirse Ronan,Brooklyn,25,FALSE
+2016,Cate Blanchet,Carol,91,FALSE
+2016,Jennifer Lawrence,Joy,176,FALSE
+2016,Charlotte Rampling,45 Years,201,FALSE
+2017,Emma Stone,La La Land,1.206185567,TRUE
+2017,Isabelle Huppert,Elle,9,FALSE
+2017,Natalie Portman,Jackie,9.5,FALSE
+2017,Meryl Streep,Florence Foster Jenkins,76,FALSE
+2017,Ruth Negga,Loving,81,FALSE
+2018,Frances McDormand,"Three Billboards Outside Ebbing, Missouri",1.086956522,TRUE
+2018,Saoirse Ronan,Lady Bird,24,FALSE
+2018,Sally Hawkins,The Shape of Water,27,FALSE
+2018,Margot Robbie,I Tonya,46,FALSE
+2018,Meryl Streep,The Post,161,FALSE
+2019,Olivia Colman,The Favourite,7.5,TRUE
+2019,Glenn Close,The Wife,1.161290323,FALSE
+2019,Lady Gaga,A Star Is Born,26,FALSE
+2019,Yalitza Aparicio,Roma,34,FALSE
+2019,Melissa McCarthy,Can You Ever Forgive Me?,101,FALSE
+2020,Renee Zelweger,Judy,1.085106383,TRUE
+2020,Scarlett Johansson,Marriage Story,10.75,FALSE
+2020,Cynthia Erivo,Harriet,15.25,FALSE
+2020,Saoirse Ronan,Little Women,47.5,FALSE
+2020,Charlize Theron,Bombshell,57.5,FALSE
+2021,Frances McDormand,Nomadland,4.5,TRUE
+2021,Carey Mulligan,Promising Young Woman,2.25,FALSE
+2021,Viola Davis,Ma Rainey's Black Bottom,3,FALSE
+2021,Andra Day,The United States vs Billie Holiday,7,FALSE
+2021,Vanessa Kirby,Pieces of Woman,21,FALSE
+2022,Jessica Chastain,The Eyes of Tammy Faye,1.571428571,TRUE
+2022,Nicole Kidman,Being the Ricardos,6,FALSE
+2022,Kristen Stewart,Spencer,9,FALSE
+2022,Olivia Colman,The Lost Daughter,10,FALSE
+2022,Penelope Cruz,Paralell Mothers,3.75,FALSE
